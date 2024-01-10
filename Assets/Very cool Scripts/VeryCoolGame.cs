@@ -6,6 +6,7 @@ public class VeryCoolGame : MonoBehaviour
 {
     void Start()
     {
+        // ye its cool
         Debug.Log("This game is very cool fr");
     }
 
